@@ -71,7 +71,7 @@ ul {
 }
 
 .nav ul li:hover{
-    background-color: aqua;
+    background-color: #79f8f880;
 }
 
 .nav ul li:not(:last-child) {
