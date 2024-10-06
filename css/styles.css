@@ -1,0 +1,70 @@
+.fredoka-normal {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+    margin-right: 40px;
+    padding: 10px;
+    font-size: 20px;
+	line-height: 50px;
+	text-align: justify;
+	
+}
+
+body {
+    background-image: url("https://prodengiblog.ru/wp-content/uploads/2016/05/6.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 16px;
+}
+
+footer {
+    color: black;
+    text-align: center;
+}
+  
+.par_footer {
+    text-align: left;
+    margin-left: 2rem;
+    font-size: 20px;
+	line-height: 50px;
+}
+  
+.leveling {
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 20px;
+	line-height: 50px;
+}
+  
+.ref {
+    color: rgb(87, 85, 230);
+
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding-left: 0px;
+}
+
+img {
+    width: 600px;
+    height: 420px;
+    margin: 20px auto;
+
+}
+
+
+  
